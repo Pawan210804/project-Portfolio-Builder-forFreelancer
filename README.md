@@ -115,4 +115,21 @@ We welcome contributions to PortfolioCraft\! If you have suggestions for improve
 
 This project is licensed under the MIT License \- see the LICENSE.md file for details.  
 (Note: You'll need to create a LICENSE.md file in your repository if you choose this license.)  
-Made with ❤️ by Your Name/Team
+Made with ❤️ by Team:-
+## 👥 Team Members
+
+This project was collaboratively developed by the following individuals during the Interpro 6-week web development internship:
+
+* [PAWAN KUMAR RAI] - [Authentication TEAM]
+* [KISHAN M NAIDU] - [ADDITIONAL TEAM/DEVELOP NEW FEATUR FOR PTOJECT]
+* [ATCHAYA ARUN] - [Authentication TEAM]
+* [SANIDHYA] - [Authentication TEAM]
+* [JANANI] - [Authentication TEAM]
+* [ROHIT PAL] - [Authentication TEAM]
+* [JHANSI] - [Authentication TEAM]
+* [GANESH] - [DASHBOARD TEAM]
+* [NANDINI] - [DASHBOARD TEAM]
+* [PARDHU KRISHNA] -  [ADDITIONAL TEAM/DEVELOP NEW FEATUR FOR PTOJECT]
+* [SANKET THAKRE] -  [ADDITIONAL TEAM/DEVELOP NEW FEATUR FOR PTOJECT]
+*  [SNEHA] -  [ADDITIONAL TEAM/DEVELOP NEW FEATUR FOR PTOJECT]
+
